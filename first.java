@@ -1,8 +1,8 @@
 import java.io.*;
 public class First
 {
-	public static void main()
+	public static void main(String[] args)
 	{
-		System.read.println("Welcome to Jave World");
+		System.out.println("Welcome to Jave World");
 	}
 }
